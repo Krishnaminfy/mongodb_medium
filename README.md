@@ -25,3 +25,9 @@
 
 # code
 
+![image](https://github.com/user-attachments/assets/98e3d4cd-5076-4f34-a380-f9aeff20de54)
+
+# output
+
+![image](https://github.com/user-attachments/assets/5b88895b-25f5-4a3a-b02a-78146dc4d0d3)
+
